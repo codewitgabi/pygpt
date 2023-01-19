@@ -14,6 +14,13 @@ or
 
 Once imported, called the method
 
-`pygpt.runAi()` if the first import was used
-or
+`pygpt.runAi()`\
+if the first import was used\
+
+OR\
+
 `runAi()` if the second import was used
+
+## Running from command line
+You can also run the __pygpt__ from the command line using this command
+`python -m pygpt`
