@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: pygpt
+Version: 0.0.1
+Summary: A package that enables usage of chatgpt on the command line
+Author-email: Gabriel Michael Ojomakpene <codewitgabi222@gmail.com>
+Project-URL: Homepage, https://github.com/codewitgabi/pygpt
+Project-URL: Bug Tracker, https://github.com/codewitgabi/pygpt/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Installation
+To project is a simple one to install. Go to the command prompt on Windows or terminal on Linux and run the command below
+
+`pip install pygpt`
+
+or
+
+`python3 -m pip install pygpt`
+
+Once the package is installed, enter your editor and import the package
+`import pygpt`
+or
+`from pygpt import runAi`
+
+Once imported, called the method
+
+`pygpt.runAi()` if the first import was used
+or
+`runAi()` if the second import was used

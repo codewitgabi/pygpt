@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+pygpt/__init__.py
+pygpt/gptai.py
+pygpt.egg-info/PKG-INFO
+pygpt.egg-info/SOURCES.txt
+pygpt.egg-info/dependency_links.txt
+pygpt.egg-info/top_level.txt
