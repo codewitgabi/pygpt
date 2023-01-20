@@ -9,15 +9,18 @@ or
 
 Once the package is installed, enter your editor and import the package
 `import pygpt`
+
 or
+
 `from pygpt import runAi`
 
 Once imported, called the method
 
-`pygpt.runAi()`\
-if the first import was used\
+`pygpt.runAi()`
 
-OR\
+if the first import was used
+
+or
 
 `runAi()` if the second import was used
 
